@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-//this class require autoload cookier helper and url helper
+
 class Image {
 
 	function scale_to_smaller($wished_width, $wished_height, $path, $name, $new_name)
